@@ -1,0 +1,4 @@
+Fiction,F100,Assalamualaikum Dunia,Hanisa Jemeli,1234-034-099-08-9,2,2022,Short Story,Available
+Non-Fiction,NF100,IT and AI,James Read,1234-033-022-01-9,3,2023,Computer Science,Available
+Non-Fiction,NF101,Chemistry 101 Beginner,Alam Shahril Md,1234-990-892-09-2,1,2022,Chemistry,Available
+Non-Fiction,NF102,HAPPY FAMILY,IWANI,123-456-789,1,2023,Biology,Available
